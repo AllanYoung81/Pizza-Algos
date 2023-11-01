@@ -2,3 +2,4 @@
 2. Choose Saved Order.
 3. Add to cart.
 4. Pay for pizza
+5. Eat Pizza

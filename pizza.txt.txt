@@ -1,5 +1,5 @@
 1. Open Domoinos App
-2. Choose Saved Order.
-3. Add to cart.
+2. Choose pizza.
+3. Choose toppings.
 4. Pay for pizza
 5. Eat Pizza
